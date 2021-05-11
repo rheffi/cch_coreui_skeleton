@@ -17,3 +17,7 @@ php artisan migrate
 php artisan db:seed
 
 php artisan serve
+
+id : dev0001
+
+pw: 1234
