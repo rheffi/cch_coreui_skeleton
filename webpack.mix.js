@@ -54,8 +54,8 @@ mix.copy('node_modules/jquery/dist/jquery.js', 'public/js');
 mix.copy('node_modules/jquery-mousewheel/jquery.mousewheel.js', 'public/js');
 mix.copy('node_modules/jquery-ui-dist/jquery-ui.min.js', 'public/js');
 mix.copy('node_modules/@popperjs/core/dist/umd/popper.js', 'public/js');
-
 mix.js('resources/js/sweetalert.js','public/js');
+mix.js('resources/js/datatables.min.js','public/js');
 
 // views scripts
 
